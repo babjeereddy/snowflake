@@ -1,0 +1,5 @@
+1. To be able to create the virtual warehouse, you have to use at least the role SYSADMIN (or SECURITYADMIN or ACCOUNTADMIN).
+
+
+
+ Set up a virtual warehouse using SQL command with warehouse size xsmall autosuspend after 10 minuts and auto resume on
