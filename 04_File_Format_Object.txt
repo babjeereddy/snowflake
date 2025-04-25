@@ -1,0 +1,20 @@
+TBALE CUSTOMER
+ID INT,
+first_name varchar,
+last_name varchar,
+email varchar,
+age int,
+city varchar
+
+
+1. Create a stage & file format object
+
+The data is available under: s3://snowflake-assignments-mc/fileformat/
+
+CREATE FILE FORMAT OBJECT 
+Data type: CSV - delimited by '|' (pipe)
+Header is in the first line.
+
+2. List the files in the stage
+
+3. Load the data in the existing customers table using the COPY command your stage and the created file format object.
