@@ -1,0 +1,57 @@
+1 Create a multi-schema database setup
+Write SQL to create a database with 3 schemas: staging, analytics, and archive.
+
+2 Role-based Access Control
+Create a custom role DATA_ENGINEER that can only read and insert into a specific schema.
+
+3 Grant & Revoke Privileges
+Grant USAGE on a database to a role, then REVOKE it. Show both commands.
+
+4 Copy Data from S3 (External Stage)
+Write a COPY INTO command to load CSV files from an S3 bucket into a Snowflake table.
+
+
+
+
+
+
+
+
+
+
+5. Time Travel: Restore a Dropped Table
+Drop a table and restore it using undrop functionality.
+
+6 Create a Stream on a Table
+Set up a STREAM to track inserts and updates on a CUSTOMERS table.
+
+7 Optimize Table Storage
+Apply CLUSTER BY on a table with millions of rows based on order_date.
+
+8 Warehouse Auto-Suspend & Resume
+Create a warehouse that auto-suspends after 60 seconds of inactivity and auto-resumes.
+
+9  Zero-Copy Clone
+Clone an entire schema without physically copying the data.
+
+10 Task Scheduling
+Create a TASK that runs every hour to insert new records into an audit table.
+
+11 Semi-Structured Data (JSON) Parsing
+Write SQL to parse a VARIANT column containing nested JSON and extract a specific field.
+
+12 SQL UDF (User Defined Function)
+Create a UDF that returns "High", "Medium", or "Low" based on a numeric score.
+
+13 Clone a Table with a Specific Retention Period
+Clone a table but override the DATA_RETENTION_TIME_IN_DAYS for Time Travel.
+
+14 Monitor Stage Storage Usage
+Write a query that shows how much storage is being used by internal stages.
+
+15 Continuous Loading Using Snowpipe
+Create a Snowpipe that automatically ingests new files from an azure data lake storage into a transactions table.
+
+
+
+
