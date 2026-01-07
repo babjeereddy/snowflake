@@ -1,0 +1,582 @@
+[
+    {
+        "id": "S001",
+        "name": "Anita Rao",
+        "class": "10",
+        "section": "A",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 61,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 57,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 59,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 57,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 57,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 57,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 59,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 58,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 59,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 56,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S002",
+        "name": "Rahul Menon",
+        "class": "10",
+        "section": "B",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 64,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 60,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 62,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 60,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 60,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 60,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 62,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 61,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 62,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 59,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S003",
+        "name": "Meera Iyer",
+        "class": "10",
+        "section": "C",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 67,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 63,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 65,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 63,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 63,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 63,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 65,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 64,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 65,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 62,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S004",
+        "name": "Vikram Singh",
+        "class": "10",
+        "section": "D",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 70,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 66,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 68,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 66,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 66,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 66,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 68,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 67,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 68,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 65,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S005",
+        "name": "Priya Sharma",
+        "class": "10",
+        "section": "A",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 73,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 69,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 71,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 69,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 69,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 69,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 71,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 70,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 71,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 68,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S006",
+        "name": "Arjun Das",
+        "class": "10",
+        "section": "B",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 76,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 72,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 74,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 72,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 72,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 72,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 74,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 73,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 74,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 71,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S007",
+        "name": "Sneha Nair",
+        "class": "10",
+        "section": "C",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 79,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 75,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 77,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 75,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 75,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 75,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 77,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 76,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 77,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 74,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S008",
+        "name": "Kiran Kumar",
+        "class": "10",
+        "section": "D",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 82,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 78,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 80,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 78,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 78,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 78,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 80,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 79,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 80,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 77,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S009",
+        "name": "Divya Patel",
+        "class": "10",
+        "section": "A",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 85,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 81,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 83,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 81,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 81,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 81,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 83,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 82,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 83,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 80,
+                "pass": true
+            }
+        ]
+    },
+    {
+        "id": "S010",
+        "name": "Rohit Verma",
+        "class": "10",
+        "section": "B",
+        "marks": [
+            {
+                "subject": "Mathematics",
+                "score": 88,
+                "pass": true
+            },
+            {
+                "subject": "Physics",
+                "score": 84,
+                "pass": true
+            },
+            {
+                "subject": "Chemistry",
+                "score": 86,
+                "pass": true
+            },
+            {
+                "subject": "Biology",
+                "score": 84,
+                "pass": true
+            },
+            {
+                "subject": "English",
+                "score": 84,
+                "pass": true
+            },
+            {
+                "subject": "History",
+                "score": 84,
+                "pass": true
+            },
+            {
+                "subject": "Geography",
+                "score": 86,
+                "pass": true
+            },
+            {
+                "subject": "Computer",
+                "score": 85,
+                "pass": true
+            },
+            {
+                "subject": "Economics",
+                "score": 86,
+                "pass": true
+            },
+            {
+                "subject": "Civics",
+                "score": 83,
+                "pass": true
+            }
+        ]
+    }
+]
